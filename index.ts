@@ -24,6 +24,3 @@ if (isActive === true) {
     active = 'Активно'
 }
 active = 'Не активно'
-
-
-
