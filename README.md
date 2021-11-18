@@ -1,0 +1,2 @@
+# TypeScriptBasic
+Базовый TypeScript
